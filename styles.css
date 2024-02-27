@@ -44,15 +44,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
-  flex-wrap: wrap;
 }
 
 #flex-section3 .tags ul {
+  display: flex;
   list-style: none;
   margin: 0px;
   padding: 0px;
-	
+  flex-wrap: wrap;
 }
 
 /* end Flexbox Part 3 */
